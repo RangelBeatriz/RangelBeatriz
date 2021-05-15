@@ -10,8 +10,8 @@
 
 ### Contato:
 
-[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619194989~hmac=c87c06260f7086ffe6fe79ee79f903b5" />](https://www.linkedin.com/in/rangelbeatriz/)
-[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619194831~hmac=711d6a8d5f9b700fd73ddeb9dd12fa36"/>](rangelbeatriz@id.uff.br)
+[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621097447~hmac=c971f0ea69b7565fef04f9d92d79b262" />](https://www.linkedin.com/in/rangelbeatriz/)
+[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/732/732200.png?token=exp=1621097575~hmac=5fad89a6fba1075f5d5169090f6b209c"/>](rangelbeatriz@id.uff.br)
 
 <br><br>
 
