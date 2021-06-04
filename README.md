@@ -10,8 +10,8 @@
 
 ### Contato:
 
-[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://ibb.co/qkhz5Xg" />](https://www.linkedin.com/in/rangelbeatriz/)
-[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://ibb.co/zbFFZct"/>](rangelbeatriz@id.uff.br)
+[<img align="left" alt="Beatriz Rangel | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/rangelbeatriz/)
+[<img align="left" alt="Beatriz Rangel | Email" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>](rangelbeatriz@id.uff.br)
 
 <br><br>
 
