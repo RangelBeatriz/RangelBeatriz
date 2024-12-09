@@ -1,8 +1,8 @@
 ### Beatriz Rangel
 
 
-- 🌱 Currently working as a Data Scientist for IBM
-- 🎒 Interests: mobile development and data analysis/ML
+- 🌱 Currently working as a Data Scientist/Python Dev
+- 🎒 Interests: web development and ML/AI
 - 💥 ...
 
 
